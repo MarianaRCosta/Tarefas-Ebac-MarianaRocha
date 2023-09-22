@@ -1,0 +1,75 @@
+Rotina de Mariana
+1-Abrir os olhos com o alarme.
+2-Desligar o alarme.
+3-Levantar da cama.
+4-Caminhar até a porta
+5-Se a porta estiver fechada:
+   5.1-Colocar a mão na maçaneta.
+   5.2-Girar a maçaneta.
+   5.3-Abrir a porta.
+6-Caminhar até a cozinha.
+7-Abrir o armário superior.
+8-No amário, pegar a caixa de cereal e o bow.
+9-Colocá-los na bancada.
+10-Se virar para geladeira.
+11-Abrir geladeira.
+12-Pegar caixa de leite.
+13-Voltar para bancada e pegar a caixa de cereal.
+14-Abrir a caixa de cereal, e derramá-lo no bow.
+15-Abrir o leite e colocar no bow antes que encha até transbordar.
+16-Fechar o leite e a caixa de cereal.
+17-Voltar para geladeira.
+18-Abrir a geladeira mais uma vez.
+19-Colocar a caixa de leite dentro da geladeira.
+20-Fechar a geladeira.
+21-Ir para bancada.
+22- Pegar a caixa de cereal.
+23- Abrir o armário superior.
+24-Guardar a caixa de cereal.
+25-Levar a mão até a gaveta da bancada.
+26-Abrir a gaveta.
+27-Retirar uma colher.
+28-Fechar a gaveta.
+29-Colocar a colher no bow.
+30-Pegar o bow.
+31-Caminhar até a mesa da sala.
+32-Colocar o bow em cima da mesa.
+33-Puxar a cadeira.
+34-Se sentar na cadeira.
+35-Comer o cereal com leite.
+36-Se levantar.
+37-Pegar o bow vazio com a colher.
+38-Caminhar até a cozinha.
+39-Colocar o bow e a colher dentro da pia.
+40-Caminhar até o banheiro.
+41-Pegar a escova na bancada.
+42-Pegar a pasta de dentes.
+43-Abrir a pasta de dentes.
+44-Colocar a pasta na escova.
+45-Fechar a pasta.
+46-Colocar a pasta de dentes de volta na bancada.
+47-Levar a escova até a pia.
+48-Colocar a mão na torneira.
+49-Girar a valvula para que saia água.
+50-Colocar a escova por alguns segundos debaixo da água da torneira.
+51-Fechar a valvula.
+52-Levar a escova a boca.
+53-Escovar os dentes.
+54-Repetir o processo de abrir a toneira.
+55-Lavar a escova.
+56-Pegar água e levar até a boca.
+57-Cuspir a água na pia.
+58-Fechar a valvula de novo.
+59-Guardar a escova.
+60-Tirar as roupas e entrar no chuveiro.
+61-Tomar banho.
+62-Ao terminar o banho, abrir a porta do box e se secar com a toalha.
+63-Se enrolar na toalha.
+64-Ir até o quarto.
+65-Abrir o guarda-roupa e colocar uma roupa.
+66-Caminhar até o escritório.
+67-Puxar a cadeira.
+68-Sentar.
+69-Ligar o computador.
+70-Começar a trabalhar.
+~Fim~
