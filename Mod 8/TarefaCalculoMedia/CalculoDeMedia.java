@@ -32,7 +32,7 @@ public class CalculoDeMedia {
 			System.out.println("Média não foi calculada corretamente.");
 			System.out.println("Por favor, verifique se as notas inseridas estão corretas.");
 		}
-
+sc.close();
 	}
 
 }
