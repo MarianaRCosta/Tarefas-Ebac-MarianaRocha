@@ -85,11 +85,12 @@ public class App {
 	private static void cadastrar(String dados) {
 		String[] dadosSeparados = dados.split(",");
 		//Nome, CPF, Telefone, Endereço, Número, Cidade e Estado
-		Cliente cliente = new Cliente(dadosSeparados[0],dadosSeparados[1],dadosSeparados[2],dadosSeparados[3],dadosSeparados[4],dadosSeparados[5],dadosSeparados[6]);
 		if(dadosSeparados.length != 7) {
 			JOptionPane.showConfirmDialog(null, "Houve um erro! Verifique se todas as informações foram devidamente colocadas" , "Erro", JOptionPane.INFORMATION_MESSAGE);
 			sair();
 		}else {
+			
+		Cliente cliente = new Cliente(dadosSeparados[0],dadosSeparados[1],dadosSeparados[2],dadosSeparados[3],dadosSeparados[4],dadosSeparados[5],dadosSeparados[6]);
 			Boolean isCadastrado = iClienteDAO.cadastrar(cliente);
 			if(isCadastrado) {
 				JOptionPane.showConfirmDialog(null, "Cliente cadastrado com sucesso" , "Sucesso", JOptionPane.INFORMATION_MESSAGE);
